@@ -67,7 +67,7 @@
 using namespace node;
 using namespace v8;
 
-#define DEBUG 0
+//#define DEBUG 0
 
 
 #if defined(DEBUG) && DEBUG
